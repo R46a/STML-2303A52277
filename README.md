@@ -19,6 +19,9 @@ https://github.com/R46a/STML-2303A52277/blob/main/stml%20ass%2006.ipynb
 WEEK 7
 https://github.com/R46a/STML-2303A52277/blob/main/stml_ass_07.ipynb
 
+WEEK 8
+https://github.com/R46a/STML-2303A52277/blob/main/stml_ass_08.ipynb
+
 WEEK 11
 https://github.com/R46a/STML-2303A52277/blob/main/STML_Ass_11.ipynb
 
